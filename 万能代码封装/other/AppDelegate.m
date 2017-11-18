@@ -10,12 +10,11 @@
 #import "IQKeyboardManager.h"
 
 #import "MainTableViewController.h"
+
 @interface AppDelegate ()
 
 @end
-
-
-//想跟我吵架 ，没那么无聊，身不由己出现在胸口
+//11111111111111
 @implementation AppDelegate
 
 
